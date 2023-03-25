@@ -5,6 +5,10 @@
 }
 body{
     background-color: #f1edda;
+    font-family: roboto;
+}
+.hero{
+    height: 100vh;
 }
 header{
     display: flex;
@@ -99,4 +103,24 @@ img{
     left: 55%;
     top: 44%;
 }
+.cuarta{
+    background-color: #393e44;
+    position: absolute;
+    padding: 22px 30px 22px 40px;
+    justify-content: center;
+    text-align: left;
+    font-size: 22px;
+    color: #e9e7da;
+    right: 18%;
+    top: 67%;
+    z-index: -1;
 }
+.icon2{
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    font-size: 25px;
+}
+.cuarta p{
+    text-align: center;
+}
+
