@@ -123,4 +123,44 @@ img{
 .cuarta p{
     text-align: center;
 }
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 30px 50px 40px;
+    text-align: end;
+    bottom: 0px;
+    width: 95%;
+    position: absolute;
+}
+.izquierda{
+    text-align: left;
+    color: #393e44;
+    font-weight: 700;
+}
+.numero{
+    color: #393e44;
+    font-size: 50px;
+   
+}
+.medio{
+    text-align: left;
+    font-weight: 700;
+    color:#D8D6CC;
+}
 
+.numero2{
+color: #D8D6CC;
+    
+    font-size: 50px;
+}
+
+.derecha{
+    text-align: left;
+    font-weight: 700;
+   color: #393e44;
+}
+.numero3{
+    font-size: 50px;
+    color:#393e44
+    
+}
