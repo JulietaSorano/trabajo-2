@@ -16,7 +16,7 @@ header{
     margin: 30px 30px;
 }
 header a{
-    font-family: roboto;
+   
     text-decoration: none;
     color: black;
     font-weight: 900;
@@ -58,7 +58,7 @@ img{
     z-index: -1;
 }
 .segundacaja{
-    font-family: 'Times New Roman', Times, serif;
+
     position: absolute;
     background-color: #393e44;
     text-align: left;
@@ -73,11 +73,10 @@ img{
     font-size: 13px;
 }
 .tercera{
-    font-family: roboto;
+    
     background-color: #ddd9c5;
     position: absolute;
     padding: 0px 50px 0px 140px;
-   /* font-weight: 900;*/
     color: #e9e7da;
     right: 0%;
     left: 54%;
@@ -94,7 +93,6 @@ img{
    
 } 
 .porencima{
-    font-family: roboto;
     position: absolute;
     padding: 25px 0px 25px 150px;
    font-weight: 1000;
