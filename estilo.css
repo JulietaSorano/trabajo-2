@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding:0;
+    cursor: default;
+}
+body{
+    background-color: #f1edda;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 30px;
+}
+header a{
+    font-family: roboto;
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+    font-size: 16px;
+    transition: width 2s;
+    cursor: default;
+    
+}
+
+.imagen{
+   
+  
+   display: flex;
+    justify-content: center;
+
+
+
+}
+img{
+    position: absolute;
+    height: 88vh;
+}
+    
+.icon{
+    text-align: center;
+    padding: 0px 20px 0px 30px;
+    font-size: 25px;
+}
+.texto{
+    position: absolute;
+    background-color: #D8D6CC;
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+    justify-content: center;
+    text-align: left;
+    padding: 25px 140px 25px 10px;
+    right: 50%;
+    top: 19%;
+    z-index: -1;
+}
+.segundacaja{
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    background-color: #393e44;
+    text-align: left;
+    color: white;
+    right: 45%;
+    left: 0%;
+    top: 42%;
+    z-index: -1;
+    padding: 16px 40px 16px 200px;
+    justify-content: right;
+    font-weight: 350;
+    font-size: 13px;
+}
+.tercera{
+    font-family: roboto;
+    background-color: #ddd9c5;
+    position: absolute;
+    padding: 0px 50px 0px 140px;
+   /* font-weight: 900;*/
+    color: #e9e7da;
+    right: 0%;
+    left: 54%;
+    top: 42%;
+    z-index: -1;
+}
+.tercera p{
+    padding: 0px;
+    letter-spacing: 6px;
+    line-height: 45px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+   
+} 
+.porencima{
+    font-family: roboto;
+    position: absolute;
+    padding: 25px 0px 25px 150px;
+   font-weight: 1000;
+    font-size: 23px;
+    color: #393e44;
+    left: 55%;
+    top: 44%;
+}
+}
